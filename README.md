@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasimkilic 
-- 👀 I’m interested in Web 3.0 ,UI. 
-- 🌱 I’m currently learning Javascript,React.
+- 👀 I’m interested in Web 3.0,UI. 
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Frontend Development.
 - 📫 How to reach me: hsmklc33@gmail.com.
 
