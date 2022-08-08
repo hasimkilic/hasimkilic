@@ -23,7 +23,7 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HasimK18) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hhasimkk/)
 
 
-- 🧠 I’m currently learning <a href="https://github.com/hasimkilic/30GundeJavascript">**Vue3**</a>.
-- 👀 I’m interested in Web 3.0,UI.
-- 💞️ I’m can work Front-End Developer intern.
+- 🧠 I’m currently learning <a href="https://github.com/hasimkilic/Vue-Exercises-Learn">**Vue3**</a>.
+- 👀 I’m interested in Web, UI & UX Design.
+- 💞️ I’m can work Front-End Developer Intern.
 
