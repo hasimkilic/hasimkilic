@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning [Vue3](https://github.com/hasimkilic/Vue-Exercises-Learn)
+- 🌱 I’m currently learning [React](https://github.com/hasimkilic/my-react-learn)
 
 - 🌐 Portfolio [https://hasimkilicdev.vercel.app](https://hasimkilicdev.vercel.app)
 
