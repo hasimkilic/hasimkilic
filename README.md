@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Haşim</h1>
 <h3 align="center">Front-End Developer | | Management Information Systems Student</h3>
 
-- 🔭 I’m currently working at **@Loscart & @Ürgün Yazılım**
+- 🔭 I’m currently working at **@Loscart , @Ürgün Yazılım**
 
 - 🌱 I’m currently learning [React](https://github.com/hasimkilic/my-react-learn)
 
