@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **@Loscart , @Ürgün Yazılım**
 
-- 🌱 I’m currently learning [React](https://github.com/hasimkilic/my-react-learn)
+- 🌱 I’m currently learning [React](https://github.com/hasimkilic/my-react-learn) , [React-Redux](https://github.com/hasimkilic/react-redux-learn)
 
 - 🌐 Portfolio [https://hasimkilicdev.vercel.app](https://hasimkilicdev.vercel.app)
 
