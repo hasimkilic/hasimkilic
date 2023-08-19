@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **@Loscart** **@Los&Rise** **@Jotform**
 
-- 🌱 I'm using React,Nextjs
+- 🌱 I'm using React,Nextjs technologies
 
 - 🌐 Portfolio [https://hasimkilicdev.vercel.app](https://hasimkilicdev.vercel.app)
 
