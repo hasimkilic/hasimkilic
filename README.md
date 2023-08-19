@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Haşim</h1>
 <h3 align="center">Front-End Developer | | Management Information Systems Student</h3>
 
-- 🔭 I’m currently working at **@Loscart**
+- 🔭 I’m currently working at **@Loscart** **@Los&Rise** **@Jotform**
 
-- 🌱 I’m currently learning [React](https://github.com/hasimkilic/my-react-learn) , [React-Redux](https://github.com/hasimkilic/react-redux-learn)
+- 🌱 I'm using React,Nextjs
 
 - 🌐 Portfolio [https://hasimkilicdev.vercel.app](https://hasimkilicdev.vercel.app)
 
